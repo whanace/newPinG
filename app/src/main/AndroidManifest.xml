@@ -48,6 +48,14 @@
             android:name=".Sample4"
             android:label="@string/title_activity_sample4" >
         </activity>
+        <activity
+            android:name=".SampleMain"
+            android:label="@string/title_activity_sample_main" >
+        </activity>
+        <activity
+            android:name=".SampleDBtest"
+            android:label="@string/title_activity_sample_dbtest" >
+        </activity>
     </application>
 
 </manifest>

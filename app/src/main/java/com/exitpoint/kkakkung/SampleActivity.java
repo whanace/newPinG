@@ -10,7 +10,6 @@ import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 
-
 public class SampleActivity extends ActionBarActivity {
 
     boolean visible = false;
